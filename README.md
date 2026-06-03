@@ -1,8 +1,8 @@
 ## DMS-PneuNet: A Dynamic Multi-scale Fusion Network with CBAM for CT Severity Grading of Severe Mycoplasma pneumoniae Pneumonia in Children
 
-**Summary:** we propose DMS-PneuNet, a novel deep learning framework based on dynamic multi-scale fusion and spatiotemporal attention mechanisms. By concurrently extracting multi-granularity features, the model employs CBAM to adaptively enhance lesion features. It utilizes Bi-LSTM to establish correlations between pathological changes across anatomical axes, ultimately achieving optimal aggregation of multi-level features through dynamic attention weights.
+**Summary:** we propose DMS-PneuNet, a novel deep learning framework based on dynamic multi-scale fusion and spatiotemporal attention mechanisms. By concurrently extracting multi-granularity features, the model employs CBAM to adaptively enhance lesion features. It utilizes Bi-LSTM to establish correlations between pathological changes across anatomical axes, ultimately achieving optimal aggregation of multi-level features through dynamic attention weights.
 
-![image](https://github.com/Mercuriiio/PMFN-SSL/blob/main/figure/model.jpg)
+![image](https://github.com/Mercuriiio/DMS-PneuNet/blob/main/model.jpg)
 
 ### Prerequisites
 - NVIDIA GPU (Tested on Nvidia GeForce RTX 4080)
